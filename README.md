@@ -1,5 +1,5 @@
 # Most important Vim commands. A cheat-sheet if you will.
-#### a set of commands which should be enough to start working smoothly and possible to remember for people whose primary job is to actually code as opposed to geeking with vim and cherishing their .vimrc
+#### a set of commands which should be enough to start working smoothly and possible to remember for people whose primary job is to actually code as opposed to geeking with vim and cherishing .vimrc
 #### this set is meant to be very short and limited, comprised of commands one should not forget even when "distracted" by work or by a particularly ugly pair programmer
 
 ### switching modes:
@@ -90,16 +90,7 @@
 
 `"3p` pastes the contents of the register 3
 
-### appendix:
-- http://vim.wikia.com/wiki/Pasting_registers
-- http://vim.wikia.com/wiki/Copy,_cut_and_paste
-- https://github.com/tpope/vim-surround -- set surround in your ~/.ideavimrc
-- deleting is cutting as well (copy to 'register' or whatever)
-- logger.info('last email') is 7 words / 2 WORDS (WORDS are divided by whitespace, words by almost anything)
-
-### saving
-`:w`
-
-`:wq`
-
-`:wq!`
+</hr>
+<small>ugly in this context means aggressive psychopath</small>
+</br>
+<small>this list will probably shrink rather than bloat, it should be the core, not all that usefull magic and not the beginner stuff (esc, hjkl)</small>
