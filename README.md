@@ -90,8 +90,11 @@
 
 `"3p` pastes the contents of the register 3
 
-</br>
-</hr>
-<small>ugly in this context means aggressive psychopath</small>
-</br>
-<small>this list will probably shrink rather than bloat, it should be the core, not all that usefull magic and not the beginner stuff (esc, hjkl)</small>
+
+
+
+---
+> <small>ugly in this context means aggressive psychopath</small>
+
+
+> <small>this list will probably shrink rather than bloat, it should be the core, not all that usefull magic and not the beginner stuff (esc, hjkl)</small>
