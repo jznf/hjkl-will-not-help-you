@@ -96,5 +96,4 @@
 ---
 > <small>ugly in this context means aggressive psychopath</small>
 
-
 > <small>this list will probably shrink rather than bloat, it should be the core, not all that usefull magic and not the beginner stuff (esc, hjkl)</small>
