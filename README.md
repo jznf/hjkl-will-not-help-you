@@ -1,6 +1,6 @@
 # Most important Vim commands. A cheat-sheet if you will.
-## a set of commands which should be enough to start working smoothly and possible to remember for people whose primary job is to actually code as opposed to geeking with vim and cherishing their .vimrc
-## this set is meant to be very short and limited, comprised of commands one should not forget even when "distracted" by work or by particularly ugly pair programmer
+#### a set of commands which should be enough to start working smoothly and possible to remember for people whose primary job is to actually code as opposed to geeking with vim and cherishing their .vimrc
+#### this set is meant to be very short and limited, comprised of commands one should not forget even when "distracted" by work or by a particularly ugly pair programmer
 
 ### switching modes:
 `i` insert, edit before cursor
@@ -70,16 +70,16 @@
 
 `d|` or `d^` delete from the cursor to the beginning of the line (hard/soft, means with and without whitespace)
 
-`D` is a synonym for d$.
+`D` is a synonym for `d$`.
 
 ### surround with vim-surround
-`ysiw"` surround word with ""
+`ysiw"` surround word with `""`
 
-`ds"` deletes sourrounding ""
+`ds"` deletes sourrounding `""`
 
 `S<b>` surround visual mode selection with closed html or xml tag
 
-`cs"<b>` changes word surrounding "" to <b></b>
+`cs"<b>` changes word surrounding `""` to `<b></b>`
 
 ### copy paste
 `yy` or `Y` yank (copy) the current line
