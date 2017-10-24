@@ -90,6 +90,7 @@
 
 `"3p` pastes the contents of the register 3
 
+</br>
 </hr>
 <small>ugly in this context means aggressive psychopath</small>
 </br>
