@@ -1,6 +1,6 @@
 # Most important Vim commands. A cheat-sheet if you will.
 #### a set of commands which should be enough to start working smoothly and possible to remember for people whose primary job is to actually code as opposed to geeking with vim and cherishing .vimrc
-#### this set is meant to be very short and limited, comprised of commands one should not forget even when "distracted" by work or by a particularly ugly pair programmer
+#### this set is meant to be very short and limited, comprised of commands one should not forget even when "distracted" by work or by a hostile environment
 
 ### switching modes:
 `i` insert, edit before cursor
@@ -92,8 +92,5 @@
 
 
 
-
----
-> <small>ugly in this context means aggressive psychopath</small>
 
 > <small>this list will probably shrink rather than bloat, it should be the core, not all that usefull magic and not the beginner stuff (esc, hjkl)</small>
