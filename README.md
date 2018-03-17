@@ -28,7 +28,7 @@
 #### half a screen
 `ctrl+u` move viewport up
 
-`ctrl+u` move viewport down
+`ctrl+d` move viewport down
 
 ### moving around:
 `hjkl` don't use these, slow and annoying
