@@ -94,3 +94,7 @@
 
 
 > <small>this list will probably shrink rather than bloat, it should be the core, not all that usefull magic and not the beginner stuff (esc, hjkl)</small>
+
+useful:
+
+http://brezeale.com/technical_notes/vim_notes.shtml
