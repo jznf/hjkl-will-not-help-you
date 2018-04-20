@@ -90,6 +90,12 @@
 
 `"3p` pastes the contents of the register 3
 
+`dd` will cut the line, p in command mode will paste.
+
+`d` and then a movement will cut the equivalent of that movement, so dw will cut a word, d<down-arrow> will cut this line and the line below, d50w will cut 50 words.
+
+`D` cuts from cursor to end of line.
+
 
 
 
