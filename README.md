@@ -1,6 +1,4 @@
-# Most important Vim commands. A cheat-sheet if you will.
-#### a set of commands which should be enough to start working smoothly and possible to remember for people whose primary job is to actually code as opposed to geeking with vim and cherishing .vimrc
-#### this set is meant to be very short and limited, comprised of commands one should not forget even when "distracted" by work or by hostile environment (or by mice in any form)
+# Most important Vim commands. A cheat-sheet.
 
 ### switching modes:
 `i` insert, edit before cursor
