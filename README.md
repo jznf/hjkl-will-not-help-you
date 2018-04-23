@@ -96,6 +96,8 @@
 
 `D` cuts from cursor to end of line.
 
+`:%d ENTER` cut whole contents of a file
+
 
 
 
