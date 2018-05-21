@@ -70,7 +70,9 @@
 
 `d|` or `d^` delete from the cursor to the beginning of the line (hard/soft, means with and without whitespace)
 
-`D` is a synonym for `d$`.
+`D` is a synonym for `d$`
+
+`cw` change word
 
 ### surround with vim-surround
 `ysiw"` surround word with `""`
