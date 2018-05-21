@@ -43,9 +43,11 @@
 
 `12+gg` jump to line number 12
 
-`b` move back one word (B - WORD)
+`b` move back one word (B - WORD) 
 
 `w` move forward one word (W - WORD)
+
+`e` move forward to end of word (excluding whitespace)
 
 ### selecting:
 `v` visual mode
