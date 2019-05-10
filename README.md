@@ -100,8 +100,8 @@
 
 `:%d ENTER` cut whole contents of a file
 
-
-
+### indent blocks
+`V jjj >>` select lines and indent `<<` to unindent
 
 > <small>this list will probably shrink rather than bloat, it should be the core, not all that usefull magic and not the beginner stuff (esc, hjkl)</small>
 
